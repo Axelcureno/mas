@@ -40,3 +40,8 @@ masStudio-*.json
 mas/commerce.json
 mas/mas.json
 mas/stats.json
+
+.claude
+CLAUDE.md
+adws
+.ports.env
